@@ -1,0 +1,100 @@
+07.12.2016 21:12:21 - findByUsername, trace=
+->D:\WWW\yii2\yii2_login_from_db\basic\models\Users.php:107
+->D:\WWW\yii2\yii2_login_from_db\basic\models\LoginForm.php:73
+->D:\WWW\yii2\yii2_login_from_db\basic\models\LoginForm.php:45
+->:
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\validators\InlineValidator.php:69
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\validators\Validator.php:243
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\Model.php:356
+
+
+07.12.2016 21:12:21 - validatePassword, trace=
+->D:\WWW\yii2\yii2_login_from_db\basic\models\Users.php:114
+->D:\WWW\yii2\yii2_login_from_db\basic\models\LoginForm.php:47
+->:
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\validators\InlineValidator.php:69
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\validators\Validator.php:243
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\Model.php:356
+->D:\WWW\yii2\yii2_login_from_db\basic\models\LoginForm.php:59
+
+
+07.12.2016 21:12:21 - getId, trace=
+->D:\WWW\yii2\yii2_login_from_db\basic\models\Users.php:85
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:579
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:236
+->D:\WWW\yii2\yii2_login_from_db\basic\models\LoginForm.php:60
+->D:\WWW\yii2\yii2_login_from_db\basic\controllers\SiteController.php:62
+->:
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\InlineAction.php:55
+
+
+07.12.2016 21:12:21 - getId, trace=
+->D:\WWW\yii2\yii2_login_from_db\basic\models\Users.php:85
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:541
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:587
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:236
+->D:\WWW\yii2\yii2_login_from_db\basic\models\LoginForm.php:60
+->D:\WWW\yii2\yii2_login_from_db\basic\controllers\SiteController.php:62
+->:
+
+
+07.12.2016 21:12:21 - getAuthKey, trace=
+->D:\WWW\yii2\yii2_login_from_db\basic\models\Users.php:92
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:542
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:587
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:236
+->D:\WWW\yii2\yii2_login_from_db\basic\models\LoginForm.php:60
+->D:\WWW\yii2\yii2_login_from_db\basic\controllers\SiteController.php:62
+->:
+
+
+07.12.2016 21:12:21 - getId, trace=
+->D:\WWW\yii2\yii2_login_from_db\basic\models\Users.php:85
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:237
+->D:\WWW\yii2\yii2_login_from_db\basic\models\LoginForm.php:60
+->D:\WWW\yii2\yii2_login_from_db\basic\controllers\SiteController.php:62
+->:
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\InlineAction.php:55
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\Controller.php:154
+
+
+07.12.2016 21:12:21 - findIdentity, trace=
+->D:\WWW\yii2\yii2_login_from_db\basic\models\Users.php:71
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:614
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:176
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:346
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\Component.php:130
+->D:\WWW\yii2\yii2_login_from_db\basic\views\layouts\main.php:44
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\View.php:325
+
+
+09.12.2016 19:35:28 - findIdentity, trace=
+->D:\WWW\yii2\yii2_login_from_db\basic\models\Users.php:71
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:614
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:176
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:346
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\Component.php:130
+->D:\WWW\yii2\yii2_login_from_db\basic\views\layouts\main.php:44
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\View.php:325
+
+
+09.12.2016 19:35:51 - findIdentity, trace=
+->D:\WWW\yii2\yii2_login_from_db\basic\models\Users.php:71
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:614
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:176
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:346
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\filters\AccessRule.php:149
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\filters\AccessRule.php:104
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\filters\AccessControl.php:118
+
+
+09.12.2016 19:35:51 - getId, trace=
+->D:\WWW\yii2\yii2_login_from_db\basic\models\Users.php:85
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\web\User.php:327
+->D:\WWW\yii2\yii2_login_from_db\basic\controllers\SiteController.php:72
+->:
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\InlineAction.php:55
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\Controller.php:154
+->D:\WWW\yii2\yii2_login_from_db\basic\vendor\yiisoft\yii2\base\Module.php:454
+
+
